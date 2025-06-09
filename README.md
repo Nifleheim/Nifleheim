@@ -14,10 +14,15 @@ I love designing scalable, resilient cloud infrastructure and automating all the
 
 ## 🛠️ Top Skills
 
-- **Cloud:** AWS, Infrastructure as Code
-- **Containers:** Kubernetes, Docker
-- **Automation:** GitHub Actions, Bash, Shell Scripting
-- **CI/CD:** End-to-end pipeline automation & optimization
+- **Cloud Platform:** Amazon Web Services, Digital Ocean, Google Cloud and Azure
+- **Containerization:** Docker and Kubernetes
+- **Automation:** Terraform and Ansible
+- **CI/CD:** GitHub Actions and Jenkins
+- **Programming Language:** Python and Bash Shell Scripting
+- **Monitoring:** Prometheus, Grafana and Datadog
+- **Logging:** Fluentd, Fluentbit, Graylog and Loki
+- **Operating System:** Windows Server, Ubuntu Linux, RHEL and Centos
+
 
 ## 🎲 Hobbies
 
