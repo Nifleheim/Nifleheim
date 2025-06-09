@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I’m Nifleheim 👋
 
-<!--
-**Nifleheim/Nifleheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tagline:** _long-life learner on the cloud_
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **DevOps Engineer** and **Cloud Engineer** specializing in:
+- **AWS Cloud Solutions**
+- **Kubernetes Orchestration**
+- **CI/CD Automation with GitHub Actions**
+- **Bash Scripting & Automation**
+
+I love designing scalable, resilient cloud infrastructure and automating all the things!
+
+## 🛠️ Top Skills
+
+- **Cloud:** AWS, Infrastructure as Code
+- **Containers:** Kubernetes, Docker
+- **Automation:** GitHub Actions, Bash, Shell Scripting
+- **CI/CD:** End-to-end pipeline automation & optimization
+
+## 🎲 Hobbies
+
+When I’m not engineering solutions in the cloud, you’ll probably find me playing strategy games and exploring new tech trends.
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Reza%20Fabryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-fabryan)](https://www.linkedin.com/in/reza-fabryan)
+
+---
+
+_“Stay curious. Keep building. Always learning.”_
